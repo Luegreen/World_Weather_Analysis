@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-Using Google Places API, Open Weather API, Jupyter notebook, Python, Pandas make hotel recommendations for >500 global cities
+Generate over 500 random lat and long combinations, use Google Places API to find cities that align most closely to those global Lat Long combos, ue Open Weather API to find weather in those cities today, create user selection of ideal temperature and build interactive selections of place using Jupyter notebook, Python, Pandas, finally make hotel recommendations for >500 global cities and create a travel map for an ideal vacation. 
 
 ## Using the various APIs to collect random cities from around the world, then parse them into weather patterns, and then decide, based on weather, what hotel is nearest to the city and ultimattely plan a route. 
 

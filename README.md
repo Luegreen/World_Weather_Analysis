@@ -2,11 +2,11 @@
 
 Google Places API, Open Weather API, Juypter Notebook, Python, Pandas
 
-Generate over 500 random lat and long combinations, use Google Places API to find cities that align most closely to those global Lat Long combos, ue Open Weather API to find weather in those cities today, create user selection of ideal temperature and build interactive selections of place with tooltips using Jupyter notebook, Python, Pandas, finally make hotel recommendations for >500 global cities and create a travel map for an ideal vacation. 
+I generated over 500 random lat and long combinations, using Google Places API to find cities that align most closely to those global Lat Long combos, ue Open Weather API to find weather in those cities today, created user selection of ideal temperature and build interactive selections of place with tooltips using Jupyter notebook, Python, Pandas, finally make hotel recommendations for >500 global cities and create a travel map for an ideal vacation. 
 
-## Using the various APIs to collect random cities from around the world, then parse them into weather patterns, and then decide, based on weather, what hotel is nearest to the city and ultimately plan a route. 
+## I used the various APIs to collect random cities from around the world, then parsed them into weather patterns, and then decide, based on weather, what hotel is nearest to the city and ultimately plan a route. 
 
-Collect random cities from random lat/long and then tap into cityPy, then gather the city's weather form OpenWeatherMap: 
+Collected random cities from random lat/long and then tap into cityPy, then gather the city's weather form OpenWeatherMap: 
 <img width="792" alt="Screen Shot 2021-05-25 at 11 23 40 AM" src="https://user-images.githubusercontent.com/14239715/119524921-11479480-bd4c-11eb-8497-b9c63006bfdf.png">
 
 
@@ -15,18 +15,18 @@ Next step: Find a hotel that is close to the city...
 
 
 
-And then, pick some weather that you enjoy
+And then, creaed an interface to prompt the user to pick some weather that they enjoy
 
 
 <img width="568" alt="Screen Shot 2021-05-25 at 11 30 18 AM" src="https://user-images.githubusercontent.com/14239715/119525571-9cc12580-bd4c-11eb-8ad7-bce5bebc84d2.png">
 
 
 
-and map the available hotels within that weather frame:
+and mapped the available hotels within that weather frame:
 <img width="787" alt="Screen Shot 2021-05-25 at 9 02 24 AM" src="https://user-images.githubusercontent.com/14239715/119525613-a5196080-bd4c-11eb-81e4-d19038b568d7.png">
 
 
-Finally; To chose a trip and chart the route. I chose Sierra Lionne... for a nice bike trip. <img width="790" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/14239715/119525978-f75a8180-bd4c-11eb-9020-05670eae46fe.png">
+Finally; I chose a trip and charted the route. I chose Sierra Lionne... for a nice bike trip. <img width="790" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/14239715/119525978-f75a8180-bd4c-11eb-9020-05670eae46fe.png">
 
 And, here is where I'll stay:
 <img width="774" alt="WeatherPy_travel_markers" src="https://user-images.githubusercontent.com/14239715/119526017-00e3e980-bd4d-11eb-8009-f95cfaae8e96.png">
